@@ -44,11 +44,14 @@ e.birth_date,
 de.from_date,
 de.to_date, 
 titles.title
---INTO mentorship_eligibilty
+INTO mentorship_eligibilty
 FROM employees as e
   INNER JOIN dept_emp as de
+  ON e.emp_no = de.emp_no
   INNER JOIN titles
-ON (e.emp_no = de.emp_no)
-WHERE de.to_date = (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
-ORDER BY emp_no DESC;
+  ON de.emp_no = titles.emp_no
+WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+--PRIMARY KEY (employees, dept_emp)
+--PRIMARY KEY (employees, titles)
+ORDER BY emp_no;
 
