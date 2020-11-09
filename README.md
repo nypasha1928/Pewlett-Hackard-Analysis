@@ -25,5 +25,11 @@ Second analysis deliverable major pionts .
 
 - Creating a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
 
+https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv
 
+# Summary:
+
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
