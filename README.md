@@ -14,4 +14,8 @@ Provide a bulleted list with four major points from the two analysis deliverable
 First analysis deliverable major point .
 -  Creating  a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions , there was duplicate entries that we had to remove them so we could keep only the most recent title of each employee . 
 
+https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv
+
+- 
+
 
