@@ -23,6 +23,7 @@ https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Data/retiring_
 
 Second analysis deliverable major pionts .
 
+- Creating a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
 
 
 
