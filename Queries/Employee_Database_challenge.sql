@@ -32,4 +32,4 @@ INTO retiring_titles
 FROM unique_titles as ut
 
 GROUP BY ut.title
-ORDER BY ut.title;
+ORDER BY ut.count DESC;
