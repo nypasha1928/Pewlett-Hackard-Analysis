@@ -18,7 +18,7 @@ First analysis deliverable major points .
 
 - Creating a table  to retrieve the number of employees by their most recent job title who are about to retire.
 
-![image](https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+![image](https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Images/retiring%20titles%20img.png)
 
 
 Second analysis deliverable major pionts .
