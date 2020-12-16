@@ -25,7 +25,7 @@ Second analysis deliverable major pionts .
 
 - Creating a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
 
-![image](https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
+![image](https://github.com/nypasha1928/Pewlett-Hackard-Analysis/blob/main/Images/mentorship%20eligibility%20img.png)
 
 ## Summary:
 
